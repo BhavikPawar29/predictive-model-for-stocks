@@ -42,7 +42,7 @@ Luckyson Khaidem, Snehanshu Saha, Sudeepa Roy Dey
    python train.py
    ```
 
-   This will process the data, train the Random Forest model, and print the model's accuracy.
+   This will process the data, train the Random Forest model, and print the model's accuracy, OOB Error.
 
 ## Files
 
