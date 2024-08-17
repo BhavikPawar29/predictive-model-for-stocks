@@ -1,6 +1,21 @@
 # Stock Price Prediction with Random Forest
 
-This project implements a stock price prediction model using Random Forest and other technical indicators. The model predicts the direction of stock market prices based on historical data.
+# Overview
+This project applies a Random Forest model to predict stock market trends using various technical indicators. The dataset used includes historical stock price data, and the implementation includes a custom Random Forest classifier along with essential technical indicators for feature extraction.
+
+# Dataset
+## About Dataset
+### Context
+Stock market data is widely analyzed for educational, business, and personal interests.
+
+Content
+The dataset includes price history and trading volumes for fifty stocks in the NIFTY 50 index from the NSE (National Stock Exchange) of India. It contains day-level data with pricing and trading values split across CSV files for each stock, and a metadata file with macro-information about the stocks. The data spans from January 1, 2000, to April 30, 2021.
+
+Update Frequency
+The dataset is updated once a month to ensure the latest and most relevant information.
+
+Acknowledgements
+NSE India: https://www.nseindia.com/
 
 ## Research Paper
 
