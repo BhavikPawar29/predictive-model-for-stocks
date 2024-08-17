@@ -34,7 +34,7 @@ Luckyson Khaidem, Snehanshu Saha, Sudeepa Roy Dey
 
 ## Usage
 
-1. **Prepare your data:** Place your CSV files in the `Data` directory. The files should include stock price information.
+1. **Prepare your data:** Place your CSV files in the `Data` directory. The files include stock price information.
 
 2. **Run the training script:**
 
@@ -52,3 +52,4 @@ Luckyson Khaidem, Snehanshu Saha, Sudeepa Roy Dey
 - `randomForest.py`: Implements the Random Forest classifier.
 - `files.py`: Contains file paths for data.
 - `requirements.txt`: Lists the required Python libraries.
+- `techIndicators.py`: Includes implementations for various technical indicators used in the model.
