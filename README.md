@@ -22,7 +22,7 @@ Luckyson Khaidem, Snehanshu Saha, Sudeepa Roy Dey
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/stock-price-prediction-forest.git
+   git clone https://github.com/BhavikPawar29/predictive-model-for-stocks.git
    cd stock-price-prediction-forest
    ```
 
