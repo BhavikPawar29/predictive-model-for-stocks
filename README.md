@@ -52,8 +52,8 @@ Luckyson Khaidem, Snehanshu Saha, Sudeepa Roy Dey [2016]
 ## Usage
 
 1. **Prepare your data:** Place your CSV files in the `Data` directory. The files include stock price information.
-2.
-3. Edit the files.py file to include the paths to your data files. You can specify your file paths in the file_paths variable.
+
+2.Edit the files.py file to include the paths to your data files. You can specify your file paths in the file_paths variable.
 
 4. **Run the training script:**
 
