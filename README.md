@@ -7,7 +7,7 @@ This project applies a Random Forest model to predict stock market trends using 
 
 ### About Dataset
 **Context**  
-Stock market data is widely analyzed for educational, business, and personal interests.
+Stock market data is widely analyzed for educational, *business, and personal interests.
 
 **Content**  
 The dataset includes price history and trading volumes for fifty stocks in the NIFTY 50 index from the NSE (National Stock Exchange) of India. It contains day-level data with pricing and trading values split across CSV files for each stock, and a metadata file with macro-information about the stocks. The data spans from January 1, 2000, to April 30, 2021.
