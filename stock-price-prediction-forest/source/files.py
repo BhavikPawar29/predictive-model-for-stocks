@@ -31,7 +31,6 @@ file_paths = [
     r'C:\Users\Bhavik D.Pawar\Documents\Bhavik_Pawar\Projects\Project-Endurence\Data\MARUTI.csv',
     r'C:\Users\Bhavik D.Pawar\Documents\Bhavik_Pawar\Projects\Project-Endurence\Data\MM.csv',
     r'C:\Users\Bhavik D.Pawar\Documents\Bhavik_Pawar\Projects\Project-Endurence\Data\NESTLEIND.csv',
-    r'C:\Users\Bhavik D.Pawar\Documents\Bhavik_Pawar\Projects\Project-Endurence\Data\NIFTY50_all.csv',
     r'C:\Users\Bhavik D.Pawar\Documents\Bhavik_Pawar\Projects\Project-Endurence\Data\NTPC.csv',
     r'C:\Users\Bhavik D.Pawar\Documents\Bhavik_Pawar\Projects\Project-Endurence\Data\ONGC.csv',
     r'C:\Users\Bhavik D.Pawar\Documents\Bhavik_Pawar\Projects\Project-Endurence\Data\POWERGRID.csv',
