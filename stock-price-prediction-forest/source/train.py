@@ -2,6 +2,7 @@ import numpy as np
 import pandas as pd
 
 from sklearn.model_selection import train_test_split
+from sklearn.metrics import classification_report
 from randomForest import RandomForest
 from files import file_paths
 from expSmoothed import process_all_files
@@ -26,5 +27,12 @@ def accuracy(y_test, y_pred):
     return np.sum(y_test == y_pred) / len(y_test)
 
 acc = accuracy(y_test, predictions)
+print(f"Accuracy: {acc}")
+
+# Generate classification report
+report = classification_report(y_test, predictions)
+print("Classification Report:")
+print(report)
+
+# Plot OOB error
 rf.plot_oob_error()
-print(acc)
