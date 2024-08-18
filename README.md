@@ -39,6 +39,7 @@ Luckyson Khaidem, Snehanshu Saha, Sudeepa Roy Dey
    ```bash
    git clone https://github.com/BhavikPawar29/predictive-model-for-stocks.git
    cd stock-price-prediction-forest
+   cd source
    ```
 
 2. **Install required libraries:**
