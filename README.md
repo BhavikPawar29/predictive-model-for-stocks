@@ -39,7 +39,6 @@ Luckyson Khaidem, Snehanshu Saha, Sudeepa Roy Dey
 
    ```bash
    git clone https://github.com/BhavikPawar29/predictive-model-for-stocks.git
-   cd predictive-model-for-stocks/source
    ```
 
 2. **Install required libraries:**
@@ -47,7 +46,7 @@ Luckyson Khaidem, Snehanshu Saha, Sudeepa Roy Dey
    The `requirements.txt` file is located in the root directory of the repository, outside the `source` folder. Install the required libraries with:
 
    ```bash
-   pip install -r ../requirements.txt
+   pip install -r requirements.txt
    ```
 
 ## Usage
@@ -57,6 +56,7 @@ Luckyson Khaidem, Snehanshu Saha, Sudeepa Roy Dey
 2. **Run the training script:**
 
    ```bash
+   cd predictive-model-for-stocks/source
    python train.py
    ```
 
