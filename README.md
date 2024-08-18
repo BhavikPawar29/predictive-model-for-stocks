@@ -23,7 +23,7 @@ NSE India: [https://www.nseindia.com/](https://www.nseindia.com/)
 This project is inspired by the research paper:
 
 **Predicting the direction of stock market prices using Random Forest**  
-Luckyson Khaidem, Snehanshu Saha, Sudeepa Roy Dey  
+Luckyson Khaidem, Snehanshu Saha, Sudeepa Roy Dey [2016]
 [khaidem90@gmail.com](mailto:khaidem90@gmail.com), [snehanshusaha@pes.edu](mailto:snehanshusaha@pes.edu), [sudeepar@pes.edu](mailto:sudeepar@pes.edu)
 
 ## Features
